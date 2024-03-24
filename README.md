@@ -1,1 +1,1 @@
-# Qatar2022
+# Qatar2022: Stat Analysis using Excel

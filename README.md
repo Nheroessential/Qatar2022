@@ -35,3 +35,9 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/greysonmb
 The raw data had a lot of abbreviated column which I formatted properly.
 
 ![Dirty data](https://github.com/Nheroessential/Qatar2022/assets/90351195/a3a14b2b-40c5-4f20-83a7-4a66fbfe401e)
+
+The Cleaned data:
+![Cleaned football](https://github.com/Nheroessential/Qatar2022/assets/90351195/f9f2acb8-c831-4742-986a-9badf78192ff)
+
+## Visualization
+

@@ -30,3 +30,6 @@ The 2022 FIFA World Cup was a celebration of football excellence, cultural diver
 
 ## Data Sources
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/greysonmb/2022-world-cup-stats) in csv format. I performed data cleaning using power query and conditional formatting.
+
+## Excel Analysis
+C:\Users\tofun\OneDrive\Pictures\Dirty data.png

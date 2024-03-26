@@ -3,7 +3,7 @@
 ## Overview
 The FIFA World Cup Qatar 2022™ was the 22nd edition of the tournament. Here are some key details:
 
-              Host Country: Qatar 
+  -Host Country: Qatar 
 
   Stadiums: Eight stadiums in Qatar
   

@@ -32,4 +32,6 @@ The 2022 FIFA World Cup was a celebration of football excellence, cultural diver
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/greysonmb/2022-world-cup-stats) in csv format. I performed data cleaning using power query and conditional formatting.
 
 ## Excel Analysis
-![Raw Data](Qatar 2022\Cleaned football.png?raw=true) 
+The raw data had a lot of abbreviated column which I formatted properly.
+
+![Dirty data](https://github.com/Nheroessential/Qatar2022/assets/90351195/a3a14b2b-40c5-4f20-83a7-4a66fbfe401e)

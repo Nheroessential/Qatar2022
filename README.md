@@ -27,3 +27,6 @@ The 2022 FIFA World Cup was the 22nd edition of the world championship for natio
 3. 32 Participating Teams: The 2022 World Cup featured 32 participating teams, but this format would change in the subsequent edition. The number of teams will be increased to 48 for the 2026 World Cup.
 4. Historic Host: Qatar entered the event as the host’s national team, making it their first World Cup appearance.
 The 2022 FIFA World Cup was a celebration of football excellence, cultural diversity, and global unity.
+
+## Data Sources
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/greysonmb/2022-world-cup-stats) in csv format. I performed data cleaning using power query and conditional formatting.

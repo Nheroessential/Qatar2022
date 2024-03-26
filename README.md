@@ -41,7 +41,13 @@ The Cleaned data:
 
 ## Visualization
 Creating a pivot table was the next step towards creating a dashboard that visualizes the participating nations individual stats. I utilized `VLOOKUP` to derive the Important stat that will go into the dashboard.
-![wc dashboard](https://github.com/Nheroessential/Qatar2022/assets/90351195/27fb1425-70a8-4b13-a8c7-f8b2bf368a63)
+![Vlok](https://github.com/Nheroessential/Qatar2022/assets/90351195/a15d1022-0941-42e0-8ad0-b5dfb8b05752)
+
 
 The final dashboard:
+![wc dashboard](https://github.com/Nheroessential/Qatar2022/assets/90351195/27fb1425-70a8-4b13-a8c7-f8b2bf368a63)
+
+
+## Conclusion
+This dashboard easily displays the stats of selected nation.
 

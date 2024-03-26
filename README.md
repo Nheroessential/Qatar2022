@@ -40,4 +40,5 @@ The Cleaned data:
 ![Cleaned football](https://github.com/Nheroessential/Qatar2022/assets/90351195/f9f2acb8-c831-4742-986a-9badf78192ff)
 
 ## Visualization
+Creating a pivot table was the next step towards creating a dashboard that visualizes the participating nations individual stats. I utilized `VLOOKUP` to derive the Important stat that will go into the dashboard.
 
